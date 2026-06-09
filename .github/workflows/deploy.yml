@@ -1,0 +1,54 @@
+name: 部署到 GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 安装依赖
+        run: npm install
+
+      - name: 运行爬虫（更新数据）
+        run: |
+          pip install requests
+          python scripts/crawl.py
+
+      - name: 构建
+        run: npx vite build
+
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - uses: actions/deploy-pages@v4
+        id: deployment
+
+      - name: 提交爬取的数据回仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git diff --staged --quiet || (git commit -m "📊 自动更新数据" && git push)
