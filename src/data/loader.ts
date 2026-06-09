@@ -1,10 +1,12 @@
 import type { Team } from '../types';
 
+const BASE = import.meta.env.BASE_URL || '/';
+
 let teamsCache: Team[] | null = null;
 
 export async function loadTeams(): Promise<Team[]> {
   if (teamsCache) return teamsCache;
-  const res = await fetch('/teams.json');
+  const res = await fetch(`${BASE}teams.json`);
   const json = await res.json();
   teamsCache = json.teams;
   return teamsCache!;
