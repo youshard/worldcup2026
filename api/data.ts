@@ -28,11 +28,19 @@ export async function weather() {
   return readJSON('weather.json') || { venues: {} };
 }
 
+export async function recentForm(teamCode?: string) {
+  const data = readJSON('recent-form.json');
+  if (!data) return null;
+  if (teamCode) return data.teams?.[teamCode.toUpperCase()] || [];
+  return data.teams || {};
+}
+
 export async function bundle() {
   return {
     scores: readJSON('live-scores.json'),
     rankings: readJSON('rankings.json'),
     weather: readJSON('weather.json'),
+    recentForm: readJSON('recent-form.json'),
     fetchedAt: new Date().toISOString(),
   };
 }

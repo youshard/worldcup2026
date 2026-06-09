@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { liveScores, rankings, weather, bundle } from '../data.js';
+import { liveScores, rankings, weather, recentForm, bundle } from '../data.js';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -15,6 +15,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
   if (path === '/api/weather') {
     return res.json({ success: true, data: await weather() });
+  }
+  if (path === '/api/recent-form') {
+    const data = await recentForm();
+    return res.json({ success: true, data });
   }
   if (path === '/api/bundle') {
     return res.json({ success: true, data: await bundle() });
