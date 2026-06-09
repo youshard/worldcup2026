@@ -1,0 +1,35 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/live-scores",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/api/rankings",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/api/weather",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/api/bundle",
+      "destination": "/api/index"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, OPTIONS" }
+      ]
+    },
+    {
+      "source": "/public/data/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=30, s-maxage=30" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1571 @@
+﻿{
+    "meta":  {
+                 "tournament":  "FIFA World Cup 2026",
+                 "hosts":  [
+                               "Canada",
+                               "Mexico",
+                               "USA"
+                           ],
+                 "totalTeams":  48,
+                 "rankingDate":  "2026-06-04",
+                 "confederations":  {
+                                        "UEFA":  {
+                                                     "name":  "欧洲",
+                                                     "slots":  16
+                                                 },
+                                        "AFC":  {
+                                                    "name":  "亚洲",
+                                                    "slots":  9
+                                                },
+                                        "CAF":  {
+                                                    "name":  "非洲",
+                                                    "slots":  10
+                                                },
+                                        "CONMEBOL":  {
+                                                         "name":  "南美洲",
+                                                         "slots":  6
+                                                     },
+                                        "CONCACAF":  {
+                                                         "name":  "中北美及加勒比",
+                                                         "slots":  6
+                                                     },
+                                        "OFC":  {
+                                                    "name":  "大洋洲",
+                                                    "slots":  1
+                                                }
+                                    }
+             },
+    "teams":  [
+                  {
+                      "id":  "ESP",
+                      "name":  "西班牙",
+                      "nameEn":  "Spain",
+                      "fifaCode":  "ESP",
+                      "nickname":  "斗牛士军团",
+                      "nicknameEn":  "La Roja",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  2,
+                      "fifaPoints":  1873.01,
+                      "qualification":  "UEFA H组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  17,
+                                              "champion":  1,
+                                              "championYears":  [
+                                                                    2010
+                                                                ],
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "冠军 (2010)",
+                                              "totalWins":  34,
+                                              "totalDraws":  15,
+                                              "totalLosses":  21,
+                                              "goalsFor":  113,
+                                              "goalsAgainst":  80
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.65,
+                                    "avgGoalsConceded":  1.15,
+                                    "avgPossession":  62.5,
+                                    "shotConversion":  14.2
+                                }
+                  },
+                  {
+                      "id":  "ARG",
+                      "name":  "阿根廷",
+                      "nameEn":  "Argentina",
+                      "fifaCode":  "ARG",
+                      "nickname":  "蓝白军团",
+                      "nicknameEn":  "La Albiceleste",
+                      "confederation":  "CONMEBOL",
+                      "fifaRanking":  1,
+                      "fifaPoints":  1874.81,
+                      "qualification":  "CONMEBOL 第一名",
+                      "worldCupHistory":  {
+                                              "appearances":  19,
+                                              "champion":  3,
+                                              "championYears":  [
+                                                                    1978,
+                                                                    1986,
+                                                                    2022
+                                                                ],
+                                              "runnerUp":  3,
+                                              "runnerUpYears":  [
+                                                                    1930,
+                                                                    1990,
+                                                                    2014
+                                                                ],
+                                              "bestResult":  "冠军 (1978, 1986, 2022)",
+                                              "totalWins":  52,
+                                              "totalDraws":  19,
+                                              "totalLosses":  22,
+                                              "goalsFor":  156,
+                                              "goalsAgainst":  103
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.84,
+                                    "avgGoalsConceded":  1.16,
+                                    "avgPossession":  58.3,
+                                    "shotConversion":  15.8
+                                }
+                  },
+                  {
+                      "id":  "FRA",
+                      "name":  "法国",
+                      "nameEn":  "France",
+                      "fifaCode":  "FRA",
+                      "nickname":  "高卢雄鸡",
+                      "nicknameEn":  "Les Bleus",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  3,
+                      "fifaPoints":  1869.43,
+                      "qualification":  "UEFA D组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  17,
+                                              "champion":  2,
+                                              "championYears":  [
+                                                                    1998,
+                                                                    2018
+                                                                ],
+                                              "runnerUp":  2,
+                                              "runnerUpYears":  [
+                                                                    2006,
+                                                                    2022
+                                                                ],
+                                              "thirdPlace":  2,
+                                              "bestResult":  "冠军 (1998, 2018)",
+                                              "totalWins":  42,
+                                              "totalDraws":  15,
+                                              "totalLosses":  16,
+                                              "goalsFor":  136,
+                                              "goalsAgainst":  85
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.76,
+                                    "avgGoalsConceded":  1.05,
+                                    "avgPossession":  55.8,
+                                    "shotConversion":  16.5
+                                }
+                  },
+                  {
+                      "id":  "ENG",
+                      "name":  "英格兰",
+                      "nameEn":  "England",
+                      "fifaCode":  "ENG",
+                      "nickname":  "三狮军团",
+                      "nicknameEn":  "The Three Lions",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  4,
+                      "fifaPoints":  1825.97,
+                      "qualification":  "UEFA K组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  17,
+                                              "champion":  1,
+                                              "championYears":  [
+                                                                    1966
+                                                                ],
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "冠军 (1966)",
+                                              "totalWins":  32,
+                                              "totalDraws":  22,
+                                              "totalLosses":  20,
+                                              "goalsFor":  104,
+                                              "goalsAgainst":  68
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.62,
+                                    "avgGoalsConceded":  0.98,
+                                    "avgPossession":  57.2,
+                                    "shotConversion":  13.8
+                                }
+                  },
+                  {
+                      "id":  "BRA",
+                      "name":  "巴西",
+                      "nameEn":  "Brazil",
+                      "fifaCode":  "BRA",
+                      "nickname":  "桑巴军团",
+                      "nicknameEn":  "Seleção",
+                      "confederation":  "CONMEBOL",
+                      "fifaRanking":  6,
+                      "fifaPoints":  1762.66,
+                      "qualification":  "CONMEBOL 前六名",
+                      "worldCupHistory":  {
+                                              "appearances":  23,
+                                              "champion":  5,
+                                              "championYears":  [
+                                                                    1958,
+                                                                    1962,
+                                                                    1970,
+                                                                    1994,
+                                                                    2002
+                                                                ],
+                                              "runnerUp":  2,
+                                              "runnerUpYears":  [
+                                                                    1950,
+                                                                    1998
+                                                                ],
+                                              "thirdPlace":  2,
+                                              "bestResult":  "冠军 (5次)",
+                                              "totalWins":  76,
+                                              "totalDraws":  19,
+                                              "totalLosses":  19,
+                                              "goalsFor":  237,
+                                              "goalsAgainst":  108
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  2.08,
+                                    "avgGoalsConceded":  0.95,
+                                    "avgPossession":  59.1,
+                                    "shotConversion":  17.2
+                                }
+                  },
+                  {
+                      "id":  "POR",
+                      "name":  "葡萄牙",
+                      "nameEn":  "Portugal",
+                      "fifaCode":  "POR",
+                      "nickname":  "五盾军团",
+                      "nicknameEn":  "A Seleção das Quinas",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  5,
+                      "fifaPoints":  1763.83,
+                      "qualification":  "UEFA F组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  9,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  1,
+                                              "thirdPlaceYears":  [
+                                                                      1966
+                                                                  ],
+                                              "bestResult":  "季军 (1966)",
+                                              "totalWins":  17,
+                                              "totalDraws":  8,
+                                              "totalLosses":  10,
+                                              "goalsFor":  55,
+                                              "goalsAgainst":  38
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.72,
+                                    "avgGoalsConceded":  1.12,
+                                    "avgPossession":  56.5,
+                                    "shotConversion":  15.1
+                                }
+                  },
+                  {
+                      "id":  "NED",
+                      "name":  "荷兰",
+                      "nameEn":  "Netherlands",
+                      "fifaCode":  "NED",
+                      "nickname":  "橙衣军团",
+                      "nicknameEn":  "Oranje",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  8,
+                      "fifaPoints":  1751.1,
+                      "qualification":  "UEFA G组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  12,
+                                              "champion":  0,
+                                              "runnerUp":  3,
+                                              "runnerUpYears":  [
+                                                                    1974,
+                                                                    1978,
+                                                                    2010
+                                                                ],
+                                              "thirdPlace":  1,
+                                              "thirdPlaceYears":  [
+                                                                      2014
+                                                                  ],
+                                              "bestResult":  "亚军 (1974, 1978, 2010)",
+                                              "totalWins":  30,
+                                              "totalDraws":  14,
+                                              "totalLosses":  12,
+                                              "goalsFor":  96,
+                                              "goalsAgainst":  52
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.82,
+                                    "avgGoalsConceded":  1.02,
+                                    "avgPossession":  54.8,
+                                    "shotConversion":  15.5
+                                }
+                  },
+                  {
+                      "id":  "BEL",
+                      "name":  "比利时",
+                      "nameEn":  "Belgium",
+                      "fifaCode":  "BEL",
+                      "nickname":  "欧洲红魔",
+                      "nicknameEn":  "Red Devils",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  9,
+                      "fifaPoints":  1739.55,
+                      "qualification":  "UEFA J组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  15,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  1,
+                                              "thirdPlaceYears":  [
+                                                                      2018
+                                                                  ],
+                                              "bestResult":  "季军 (2018)",
+                                              "totalWins":  25,
+                                              "totalDraws":  10,
+                                              "totalLosses":  16,
+                                              "goalsFor":  84,
+                                              "goalsAgainst":  70
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.68,
+                                    "avgGoalsConceded":  1.35,
+                                    "avgPossession":  55.2,
+                                    "shotConversion":  14.5
+                                }
+                  },
+                  {
+                      "id":  "GER",
+                      "name":  "德国",
+                      "nameEn":  "Germany",
+                      "fifaCode":  "GER",
+                      "nickname":  "日耳曼战车",
+                      "nicknameEn":  "Die Mannschaft",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  10,
+                      "fifaPoints":  1731.3,
+                      "qualification":  "UEFA A组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  21,
+                                              "champion":  4,
+                                              "championYears":  [
+                                                                    1954,
+                                                                    1974,
+                                                                    1990,
+                                                                    2014
+                                                                ],
+                                              "runnerUp":  4,
+                                              "runnerUpYears":  [
+                                                                    1966,
+                                                                    1982,
+                                                                    1986,
+                                                                    2002
+                                                                ],
+                                              "thirdPlace":  4,
+                                              "bestResult":  "冠军 (1954, 1974, 1990, 2014)",
+                                              "totalWins":  68,
+                                              "totalDraws":  21,
+                                              "totalLosses":  23,
+                                              "goalsFor":  232,
+                                              "goalsAgainst":  130
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  2.04,
+                                    "avgGoalsConceded":  1.12,
+                                    "avgPossession":  60.5,
+                                    "shotConversion":  16.8
+                                }
+                  },
+                  {
+                      "id":  "CRO",
+                      "name":  "克罗地亚",
+                      "nameEn":  "Croatia",
+                      "fifaCode":  "CRO",
+                      "nickname":  "格子军团",
+                      "nicknameEn":  "Vatreni",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  11,
+                      "fifaPoints":  1717.07,
+                      "qualification":  "UEFA L组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  1,
+                                              "runnerUpYears":  [
+                                                                    2018
+                                                                ],
+                                              "thirdPlace":  2,
+                                              "thirdPlaceYears":  [
+                                                                      1998,
+                                                                      2022
+                                                                  ],
+                                              "bestResult":  "亚军 (2018)",
+                                              "totalWins":  16,
+                                              "totalDraws":  8,
+                                              "totalLosses":  8,
+                                              "goalsFor":  50,
+                                              "goalsAgainst":  34
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.56,
+                                    "avgGoalsConceded":  1.06,
+                                    "avgPossession":  51.8,
+                                    "shotConversion":  13.5
+                                }
+                  },
+                  {
+                      "id":  "MAR",
+                      "name":  "摩洛哥",
+                      "nameEn":  "Morocco",
+                      "fifaCode":  "MAR",
+                      "nickname":  "亚特拉斯雄狮",
+                      "nicknameEn":  "Atlas Lions",
+                      "confederation":  "CAF",
+                      "fifaRanking":  7,
+                      "fifaPoints":  1756.94,
+                      "qualification":  "CAF E组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "半决赛 (2022)",
+                                              "totalWins":  5,
+                                              "totalDraws":  5,
+                                              "totalLosses":  13,
+                                              "goalsFor":  20,
+                                              "goalsAgainst":  32
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.12,
+                                    "avgGoalsConceded":  1.35,
+                                    "avgPossession":  43.5,
+                                    "shotConversion":  11.2
+                                }
+                  },
+                  {
+                      "id":  "COL",
+                      "name":  "哥伦比亚",
+                      "nameEn":  "Colombia",
+                      "fifaCode":  "COL",
+                      "nickname":  "咖啡种植者",
+                      "nicknameEn":  "Los Cafeteros",
+                      "confederation":  "CONMEBOL",
+                      "fifaRanking":  13,
+                      "fifaPoints":  1693.09,
+                      "qualification":  "CONMEBOL 前六名",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "四分之一决赛 (2014)",
+                                              "totalWins":  12,
+                                              "totalDraws":  6,
+                                              "totalLosses":  8,
+                                              "goalsFor":  37,
+                                              "goalsAgainst":  29
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.52,
+                                    "avgGoalsConceded":  1.18,
+                                    "avgPossession":  52.1,
+                                    "shotConversion":  14.0
+                                }
+                  },
+                  {
+                      "id":  "USA",
+                      "name":  "美国",
+                      "nameEn":  "USA",
+                      "fifaCode":  "USA",
+                      "nickname":  "星条旗",
+                      "nicknameEn":  "USMNT",
+                      "confederation":  "CONCACAF",
+                      "fifaRanking":  16,
+                      "fifaPoints":  1673.13,
+                      "qualification":  "联合东道主",
+                      "worldCupHistory":  {
+                                              "appearances":  12,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  1,
+                                              "thirdPlaceYears":  [
+                                                                      1930
+                                                                  ],
+                                              "bestResult":  "半决赛 (1930)",
+                                              "totalWins":  10,
+                                              "totalDraws":  9,
+                                              "totalLosses":  18,
+                                              "goalsFor":  44,
+                                              "goalsAgainst":  72
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.22,
+                                    "avgGoalsConceded":  1.85,
+                                    "avgPossession":  47.5,
+                                    "shotConversion":  11.8
+                                }
+                  },
+                  {
+                      "id":  "MEX",
+                      "name":  "墨西哥",
+                      "nameEn":  "Mexico",
+                      "fifaCode":  "MEX",
+                      "nickname":  "三色军团",
+                      "nicknameEn":  "El Tri",
+                      "confederation":  "CONCACAF",
+                      "fifaRanking":  15,
+                      "fifaPoints":  1682.11,
+                      "qualification":  "联合东道主",
+                      "worldCupHistory":  {
+                                              "appearances":  18,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "四分之一决赛 (1970, 1986)",
+                                              "totalWins":  17,
+                                              "totalDraws":  15,
+                                              "totalLosses":  27,
+                                              "goalsFor":  62,
+                                              "goalsAgainst":  101
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.08,
+                                    "avgGoalsConceded":  1.72,
+                                    "avgPossession":  46.8,
+                                    "shotConversion":  10.5
+                                }
+                  },
+                  {
+                      "id":  "URU",
+                      "name":  "乌拉圭",
+                      "nameEn":  "Uruguay",
+                      "fifaCode":  "URU",
+                      "nickname":  "天蓝军团",
+                      "nicknameEn":  "La Celeste",
+                      "confederation":  "CONMEBOL",
+                      "fifaRanking":  17,
+                      "fifaPoints":  1673.07,
+                      "qualification":  "CONMEBOL 前六名",
+                      "worldCupHistory":  {
+                                              "appearances":  15,
+                                              "champion":  2,
+                                              "championYears":  [
+                                                                    1930,
+                                                                    1950
+                                                                ],
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "冠军 (1930, 1950)",
+                                              "totalWins":  25,
+                                              "totalDraws":  13,
+                                              "totalLosses":  21,
+                                              "goalsFor":  89,
+                                              "goalsAgainst":  76
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.52,
+                                    "avgGoalsConceded":  1.32,
+                                    "avgPossession":  47.8,
+                                    "shotConversion":  13.2
+                                }
+                  },
+                  {
+                      "id":  "SUI",
+                      "name":  "瑞士",
+                      "nameEn":  "Switzerland",
+                      "fifaCode":  "SUI",
+                      "nickname":  "瑞士军团",
+                      "nicknameEn":  "Nati",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  19,
+                      "fifaPoints":  1649.4,
+                      "qualification":  "UEFA B组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  13,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "四分之一决赛 (1934, 1938, 1954)",
+                                              "totalWins":  14,
+                                              "totalDraws":  8,
+                                              "totalLosses":  19,
+                                              "goalsFor":  55,
+                                              "goalsAgainst":  73
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.35,
+                                    "avgGoalsConceded":  1.78,
+                                    "avgPossession":  48.2,
+                                    "shotConversion":  12.5
+                                }
+                  },
+                  {
+                      "id":  "JPN",
+                      "name":  "日本",
+                      "nameEn":  "Japan",
+                      "fifaCode":  "JPN",
+                      "nickname":  "蓝武士",
+                      "nicknameEn":  "Samurai Blue",
+                      "confederation":  "AFC",
+                      "fifaRanking":  18,
+                      "fifaPoints":  1660.43,
+                      "qualification":  "AFC C组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  8,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (2002, 2010, 2018, 2022)",
+                                              "totalWins":  7,
+                                              "totalDraws":  5,
+                                              "totalLosses":  13,
+                                              "goalsFor":  25,
+                                              "goalsAgainst":  36
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.18,
+                                    "avgGoalsConceded":  1.42,
+                                    "avgPossession":  46.5,
+                                    "shotConversion":  11.5
+                                }
+                  },
+                  {
+                      "id":  "SEN",
+                      "name":  "塞内加尔",
+                      "nameEn":  "Senegal",
+                      "fifaCode":  "SEN",
+                      "nickname":  "特兰加雄狮",
+                      "nicknameEn":  "Lions of Teranga",
+                      "confederation":  "CAF",
+                      "fifaRanking":  14,
+                      "fifaPoints":  1688.99,
+                      "qualification":  "CAF B组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  4,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "四分之一决赛 (2002)",
+                                              "totalWins":  5,
+                                              "totalDraws":  3,
+                                              "totalLosses":  5,
+                                              "goalsFor":  16,
+                                              "goalsAgainst":  18
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.32,
+                                    "avgGoalsConceded":  1.42,
+                                    "avgPossession":  44.8,
+                                    "shotConversion":  12.8
+                                }
+                  },
+                  {
+                      "id":  "IRN",
+                      "name":  "伊朗",
+                      "nameEn":  "IR Iran",
+                      "fifaCode":  "IRN",
+                      "nickname":  "波斯铁骑",
+                      "nicknameEn":  "Team Melli",
+                      "confederation":  "AFC",
+                      "fifaRanking":  21,
+                      "fifaPoints":  1616.04,
+                      "qualification":  "AFC A组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (6次)",
+                                              "totalWins":  3,
+                                              "totalDraws":  4,
+                                              "totalLosses":  11,
+                                              "goalsFor":  13,
+                                              "goalsAgainst":  34
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.85,
+                                    "avgGoalsConceded":  1.88,
+                                    "avgPossession":  42.5,
+                                    "shotConversion":  9.5
+                                }
+                  },
+                  {
+                      "id":  "KOR",
+                      "name":  "韩国",
+                      "nameEn":  "Korea Republic",
+                      "fifaCode":  "KOR",
+                      "nickname":  "太极虎",
+                      "nicknameEn":  "Taegeuk Warriors",
+                      "confederation":  "AFC",
+                      "fifaRanking":  25,
+                      "fifaPoints":  1588.66,
+                      "qualification":  "AFC B组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  12,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "半决赛 (2002)",
+                                              "totalWins":  7,
+                                              "totalDraws":  10,
+                                              "totalLosses":  21,
+                                              "goalsFor":  39,
+                                              "goalsAgainst":  78
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.05,
+                                    "avgGoalsConceded":  2.05,
+                                    "avgPossession":  45.2,
+                                    "shotConversion":  10.8
+                                }
+                  },
+                  {
+                      "id":  "ECU",
+                      "name":  "厄瓜多尔",
+                      "nameEn":  "Ecuador",
+                      "fifaCode":  "ECU",
+                      "nickname":  "三色军团",
+                      "nicknameEn":  "La Tri",
+                      "confederation":  "CONMEBOL",
+                      "fifaRanking":  23,
+                      "fifaPoints":  1594.78,
+                      "qualification":  "CONMEBOL 前六名",
+                      "worldCupHistory":  {
+                                              "appearances":  5,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (2006)",
+                                              "totalWins":  5,
+                                              "totalDraws":  2,
+                                              "totalLosses":  9,
+                                              "goalsFor":  14,
+                                              "goalsAgainst":  24
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.15,
+                                    "avgGoalsConceded":  1.52,
+                                    "avgPossession":  46.5,
+                                    "shotConversion":  11.8
+                                }
+                  },
+                  {
+                      "id":  "AUT",
+                      "name":  "奥地利",
+                      "nameEn":  "Austria",
+                      "fifaCode":  "AUT",
+                      "nickname":  "奇迹之队",
+                      "nicknameEn":  "Wunderteam",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  24,
+                      "fifaPoints":  1593.45,
+                      "qualification":  "UEFA H组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  8,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  1,
+                                              "thirdPlaceYears":  [
+                                                                      1954
+                                                                  ],
+                                              "bestResult":  "季军 (1954)",
+                                              "totalWins":  14,
+                                              "totalDraws":  7,
+                                              "totalLosses":  16,
+                                              "goalsFor":  56,
+                                              "goalsAgainst":  70
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.52,
+                                    "avgGoalsConceded":  1.88,
+                                    "avgPossession":  48.5,
+                                    "shotConversion":  13.2
+                                }
+                  },
+                  {
+                      "id":  "TUR",
+                      "name":  "土耳其",
+                      "nameEn":  "Türkiye",
+                      "fifaCode":  "TUR",
+                      "nickname":  "星月军团",
+                      "nicknameEn":  "Ay-Yıldızlılar",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  22,
+                      "fifaPoints":  1599.04,
+                      "qualification":  "UEFA 附加赛C组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  3,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  1,
+                                              "thirdPlaceYears":  [
+                                                                      2002
+                                                                  ],
+                                              "bestResult":  "季军 (2002)",
+                                              "totalWins":  6,
+                                              "totalDraws":  1,
+                                              "totalLosses":  4,
+                                              "goalsFor":  22,
+                                              "goalsAgainst":  17
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.62,
+                                    "avgGoalsConceded":  1.35,
+                                    "avgPossession":  49.5,
+                                    "shotConversion":  14.2
+                                }
+                  },
+                  {
+                      "id":  "AUS",
+                      "name":  "澳大利亚",
+                      "nameEn":  "Australia",
+                      "fifaCode":  "AUS",
+                      "nickname":  "袋鼠军团",
+                      "nicknameEn":  "Socceroos",
+                      "confederation":  "AFC",
+                      "fifaRanking":  27,
+                      "fifaPoints":  1580.67,
+                      "qualification":  "AFC C组亚军",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (2006, 2022)",
+                                              "totalWins":  4,
+                                              "totalDraws":  4,
+                                              "totalLosses":  12,
+                                              "goalsFor":  19,
+                                              "goalsAgainst":  37
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.08,
+                                    "avgGoalsConceded":  1.85,
+                                    "avgPossession":  45.5,
+                                    "shotConversion":  10.5
+                                }
+                  },
+                  {
+                      "id":  "CAN",
+                      "name":  "加拿大",
+                      "nameEn":  "Canada",
+                      "fifaCode":  "CAN",
+                      "nickname":  "枫叶军团",
+                      "nicknameEn":  "CanMNT",
+                      "confederation":  "CONCACAF",
+                      "fifaRanking":  30,
+                      "fifaPoints":  1556.48,
+                      "qualification":  "联合东道主",
+                      "worldCupHistory":  {
+                                              "appearances":  3,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (1986, 2022)",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  6,
+                                              "goalsFor":  2,
+                                              "goalsAgainst":  12
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.85,
+                                    "avgGoalsConceded":  2.15,
+                                    "avgPossession":  42.8,
+                                    "shotConversion":  8.5
+                                }
+                  },
+                  {
+                      "id":  "NOR",
+                      "name":  "挪威",
+                      "nameEn":  "Norway",
+                      "fifaCode":  "NOR",
+                      "nickname":  "北欧雄狮",
+                      "nicknameEn":  "Løvene",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  31,
+                      "fifaPoints":  1550.94,
+                      "qualification":  "UEFA I组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  4,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (1938)",
+                                              "totalWins":  2,
+                                              "totalDraws":  3,
+                                              "totalLosses":  4,
+                                              "goalsFor":  8,
+                                              "goalsAgainst":  11
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.42,
+                                    "avgGoalsConceded":  1.32,
+                                    "avgPossession":  50.2,
+                                    "shotConversion":  14.8
+                                }
+                  },
+                  {
+                      "id":  "PAN",
+                      "name":  "巴拿马",
+                      "nameEn":  "Panama",
+                      "fifaCode":  "PAN",
+                      "nickname":  "运河军团",
+                      "nicknameEn":  "Los Canaleros",
+                      "confederation":  "CONCACAF",
+                      "fifaRanking":  33,
+                      "fifaPoints":  1540.64,
+                      "qualification":  "CONCACAF A组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  2,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (2018)",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  3,
+                                              "goalsFor":  2,
+                                              "goalsAgainst":  11
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.88,
+                                    "avgGoalsConceded":  2.42,
+                                    "avgPossession":  40.5,
+                                    "shotConversion":  8.8
+                                }
+                  },
+                  {
+                      "id":  "ALG",
+                      "name":  "阿尔及利亚",
+                      "nameEn":  "Algeria",
+                      "fifaCode":  "ALG",
+                      "nickname":  "沙漠之狐",
+                      "nicknameEn":  "Desert Foxes",
+                      "confederation":  "CAF",
+                      "fifaRanking":  29,
+                      "fifaPoints":  1564.26,
+                      "qualification":  "CAF G组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  5,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (2014)",
+                                              "totalWins":  3,
+                                              "totalDraws":  2,
+                                              "totalLosses":  8,
+                                              "goalsFor":  9,
+                                              "goalsAgainst":  24
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.02,
+                                    "avgGoalsConceded":  1.65,
+                                    "avgPossession":  43.5,
+                                    "shotConversion":  10.2
+                                }
+                  },
+                  {
+                      "id":  "EGY",
+                      "name":  "埃及",
+                      "nameEn":  "Egypt",
+                      "fifaCode":  "EGY",
+                      "nickname":  "法老军团",
+                      "nicknameEn":  "The Pharaohs",
+                      "confederation":  "CAF",
+                      "fifaRanking":  28,
+                      "fifaPoints":  1565.56,
+                      "qualification":  "CAF A组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  4,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (1934)",
+                                              "totalWins":  0,
+                                              "totalDraws":  2,
+                                              "totalLosses":  5,
+                                              "goalsFor":  4,
+                                              "goalsAgainst":  12
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.12,
+                                    "avgGoalsConceded":  1.38,
+                                    "avgPossession":  45.2,
+                                    "shotConversion":  11.2
+                                }
+                  },
+                  {
+                      "id":  "SCO",
+                      "name":  "苏格兰",
+                      "nameEn":  "Scotland",
+                      "fifaCode":  "SCO",
+                      "nickname":  "格子呢军团",
+                      "nicknameEn":  "Tartan Army",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  43,
+                      "fifaPoints":  1498.35,
+                      "qualification":  "UEFA C组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  9,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (8次)",
+                                              "totalWins":  4,
+                                              "totalDraws":  7,
+                                              "totalLosses":  12,
+                                              "goalsFor":  25,
+                                              "goalsAgainst":  41
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.12,
+                                    "avgGoalsConceded":  1.78,
+                                    "avgPossession":  44.5,
+                                    "shotConversion":  10.5
+                                }
+                  },
+                  {
+                      "id":  "PAR",
+                      "name":  "巴拉圭",
+                      "nameEn":  "Paraguay",
+                      "fifaCode":  "PAR",
+                      "nickname":  "红白军团",
+                      "nicknameEn":  "La Albirroja",
+                      "confederation":  "CONMEBOL",
+                      "fifaRanking":  40,
+                      "fifaPoints":  1503.5,
+                      "qualification":  "CONMEBOL 前六名",
+                      "worldCupHistory":  {
+                                              "appearances":  9,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "四分之一决赛 (2010)",
+                                              "totalWins":  10,
+                                              "totalDraws":  12,
+                                              "totalLosses":  13,
+                                              "goalsFor":  34,
+                                              "goalsAgainst":  48
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.05,
+                                    "avgGoalsConceded":  1.42,
+                                    "avgPossession":  44.8,
+                                    "shotConversion":  10.8
+                                }
+                  },
+                  {
+                      "id":  "TUN",
+                      "name":  "突尼斯",
+                      "nameEn":  "Tunisia",
+                      "fifaCode":  "TUN",
+                      "nickname":  "迦太基之鹰",
+                      "nicknameEn":  "Eagles of Carthage",
+                      "confederation":  "CAF",
+                      "fifaRanking":  44,
+                      "fifaPoints":  1483.05,
+                      "qualification":  "CAF H组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (6次)",
+                                              "totalWins":  3,
+                                              "totalDraws":  5,
+                                              "totalLosses":  10,
+                                              "goalsFor":  14,
+                                              "goalsAgainst":  26
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.92,
+                                    "avgGoalsConceded":  1.55,
+                                    "avgPossession":  42.5,
+                                    "shotConversion":  9.8
+                                }
+                  },
+                  {
+                      "id":  "CIV",
+                      "name":  "科特迪瓦",
+                      "nameEn":  "Côte d\u0027Ivoire",
+                      "fifaCode":  "CIV",
+                      "nickname":  "大象军团",
+                      "nicknameEn":  "The Elephants",
+                      "confederation":  "CAF",
+                      "fifaRanking":  34,
+                      "fifaPoints":  1532.98,
+                      "qualification":  "CAF F组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  4,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (3次)",
+                                              "totalWins":  2,
+                                              "totalDraws":  1,
+                                              "totalLosses":  6,
+                                              "goalsFor":  10,
+                                              "goalsAgainst":  18
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.15,
+                                    "avgGoalsConceded":  1.72,
+                                    "avgPossession":  48.2,
+                                    "shotConversion":  11.5
+                                }
+                  },
+                  {
+                      "id":  "SWE",
+                      "name":  "瑞典",
+                      "nameEn":  "Sweden",
+                      "fifaCode":  "SWE",
+                      "nickname":  "蓝黄军团",
+                      "nicknameEn":  "Blågult",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  38,
+                      "fifaPoints":  1514.77,
+                      "qualification":  "UEFA 附加赛B组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  13,
+                                              "champion":  0,
+                                              "runnerUp":  1,
+                                              "runnerUpYears":  [
+                                                                    1958
+                                                                ],
+                                              "thirdPlace":  2,
+                                              "thirdPlaceYears":  [
+                                                                      1950,
+                                                                      1994
+                                                                  ],
+                                              "bestResult":  "亚军 (1958)",
+                                              "totalWins":  21,
+                                              "totalDraws":  11,
+                                              "totalLosses":  19,
+                                              "goalsFor":  84,
+                                              "goalsAgainst":  77
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.55,
+                                    "avgGoalsConceded":  1.42,
+                                    "avgPossession":  47.5,
+                                    "shotConversion":  13.8
+                                }
+                  },
+                  {
+                      "id":  "CZE",
+                      "name":  "捷克",
+                      "nameEn":  "Czechia",
+                      "fifaCode":  "CZE",
+                      "nickname":  "东欧铁骑",
+                      "nicknameEn":  "Národní tým",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  41,
+                      "fifaPoints":  1501.38,
+                      "qualification":  "UEFA 附加赛D组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  11,
+                                              "champion":  0,
+                                              "runnerUp":  2,
+                                              "runnerUpYears":  [
+                                                                    1934,
+                                                                    1962
+                                                                ],
+                                              "thirdPlace":  0,
+                                              "bestResult":  "亚军 (1934, 1962)",
+                                              "totalWins":  16,
+                                              "totalDraws":  8,
+                                              "totalLosses":  16,
+                                              "goalsFor":  60,
+                                              "goalsAgainst":  56
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.42,
+                                    "avgGoalsConceded":  1.38,
+                                    "avgPossession":  49.5,
+                                    "shotConversion":  13.2
+                                }
+                  },
+                  {
+                      "id":  "UZB",
+                      "name":  "乌兹别克斯坦",
+                      "nameEn":  "Uzbekistan",
+                      "fifaCode":  "UZB",
+                      "nickname":  "白狼军团",
+                      "nicknameEn":  "White Wolves",
+                      "confederation":  "AFC",
+                      "fifaRanking":  50,
+                      "fifaPoints":  1465.34,
+                      "qualification":  "AFC A组亚军",
+                      "worldCupHistory":  {
+                                              "appearances":  1,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "首次参赛",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  0,
+                                              "goalsFor":  0,
+                                              "goalsAgainst":  0
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.25,
+                                    "avgGoalsConceded":  1.38,
+                                    "avgPossession":  47.2,
+                                    "shotConversion":  12.5
+                                }
+                  },
+                  {
+                      "id":  "QAT",
+                      "name":  "卡塔尔",
+                      "nameEn":  "Qatar",
+                      "fifaCode":  "QAT",
+                      "nickname":  "栗色军团",
+                      "nicknameEn":  "Al-Annabi",
+                      "confederation":  "AFC",
+                      "fifaRanking":  55,
+                      "fifaPoints":  1440,
+                      "qualification":  "AFC 第四轮A组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  2,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (2022)",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  3,
+                                              "goalsFor":  1,
+                                              "goalsAgainst":  7
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.78,
+                                    "avgGoalsConceded":  2.15,
+                                    "avgPossession":  41.5,
+                                    "shotConversion":  8.5
+                                }
+                  },
+                  {
+                      "id":  "COD",
+                      "name":  "刚果民主共和国",
+                      "nameEn":  "Congo DR",
+                      "fifaCode":  "COD",
+                      "nickname":  "非洲猎豹",
+                      "nicknameEn":  "Les Léopards",
+                      "confederation":  "CAF",
+                      "fifaRanking":  46,
+                      "fifaPoints":  1478.35,
+                      "qualification":  "洲际附加赛胜者",
+                      "worldCupHistory":  {
+                                              "appearances":  2,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (1974)",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  3,
+                                              "goalsFor":  0,
+                                              "goalsAgainst":  14
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.92,
+                                    "avgGoalsConceded":  2.18,
+                                    "avgPossession":  40.8,
+                                    "shotConversion":  9.2
+                                }
+                  },
+                  {
+                      "id":  "IRQ",
+                      "name":  "伊拉克",
+                      "nameEn":  "Iraq",
+                      "fifaCode":  "IRQ",
+                      "nickname":  "两河雄狮",
+                      "nicknameEn":  "Lions of Mesopotamia",
+                      "confederation":  "AFC",
+                      "fifaRanking":  57,
+                      "fifaPoints":  1430,
+                      "qualification":  "洲际附加赛胜者",
+                      "worldCupHistory":  {
+                                              "appearances":  2,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (1986)",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  3,
+                                              "goalsFor":  1,
+                                              "goalsAgainst":  4
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.05,
+                                    "avgGoalsConceded":  1.65,
+                                    "avgPossession":  43.5,
+                                    "shotConversion":  10.8
+                                }
+                  },
+                  {
+                      "id":  "KSA",
+                      "name":  "沙特阿拉伯",
+                      "nameEn":  "Saudi Arabia",
+                      "fifaCode":  "KSA",
+                      "nickname":  "绿色猎鹰",
+                      "nicknameEn":  "Green Falcons",
+                      "confederation":  "AFC",
+                      "fifaRanking":  61,
+                      "fifaPoints":  1415,
+                      "qualification":  "AFC 第四轮B组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  7,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "十六强 (1994)",
+                                              "totalWins":  4,
+                                              "totalDraws":  2,
+                                              "totalLosses":  13,
+                                              "goalsFor":  14,
+                                              "goalsAgainst":  44
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.85,
+                                    "avgGoalsConceded":  2.35,
+                                    "avgPossession":  41.2,
+                                    "shotConversion":  8.5
+                                }
+                  },
+                  {
+                      "id":  "RSA",
+                      "name":  "南非",
+                      "nameEn":  "South Africa",
+                      "fifaCode":  "RSA",
+                      "nickname":  "巴法纳巴法纳",
+                      "nicknameEn":  "Bafana Bafana",
+                      "confederation":  "CAF",
+                      "fifaRanking":  60,
+                      "fifaPoints":  1420,
+                      "qualification":  "CAF C组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  4,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (3次)",
+                                              "totalWins":  2,
+                                              "totalDraws":  3,
+                                              "totalLosses":  6,
+                                              "goalsFor":  11,
+                                              "goalsAgainst":  22
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.02,
+                                    "avgGoalsConceded":  1.85,
+                                    "avgPossession":  44.5,
+                                    "shotConversion":  10.2
+                                }
+                  },
+                  {
+                      "id":  "JOR",
+                      "name":  "约旦",
+                      "nameEn":  "Jordan",
+                      "fifaCode":  "JOR",
+                      "nickname":  "纳沙马",
+                      "nicknameEn":  "Nashama",
+                      "confederation":  "AFC",
+                      "fifaRanking":  63,
+                      "fifaPoints":  1388,
+                      "qualification":  "AFC B组亚军",
+                      "worldCupHistory":  {
+                                              "appearances":  1,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "首次参赛",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  0,
+                                              "goalsFor":  0,
+                                              "goalsAgainst":  0
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.95,
+                                    "avgGoalsConceded":  1.52,
+                                    "avgPossession":  42.8,
+                                    "shotConversion":  9.8
+                                }
+                  },
+                  {
+                      "id":  "CPV",
+                      "name":  "佛得角",
+                      "nameEn":  "Cape Verde",
+                      "fifaCode":  "CPV",
+                      "nickname":  "蓝鲨军团",
+                      "nicknameEn":  "Blue Sharks",
+                      "confederation":  "CAF",
+                      "fifaRanking":  68,
+                      "fifaPoints":  1370,
+                      "qualification":  "CAF D组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  1,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "首次参赛",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  0,
+                                              "goalsFor":  0,
+                                              "goalsAgainst":  0
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.88,
+                                    "avgGoalsConceded":  1.35,
+                                    "avgPossession":  44.8,
+                                    "shotConversion":  9.5
+                                }
+                  },
+                  {
+                      "id":  "BIH",
+                      "name":  "波黑",
+                      "nameEn":  "Bosnia and Herzegovina",
+                      "fifaCode":  "BIH",
+                      "nickname":  "龙之队",
+                      "nicknameEn":  "Zmajevi",
+                      "confederation":  "UEFA",
+                      "fifaRanking":  65,
+                      "fifaPoints":  1386,
+                      "qualification":  "UEFA 附加赛A组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  2,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (2014)",
+                                              "totalWins":  1,
+                                              "totalDraws":  0,
+                                              "totalLosses":  2,
+                                              "goalsFor":  4,
+                                              "goalsAgainst":  4
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.12,
+                                    "avgGoalsConceded":  1.55,
+                                    "avgPossession":  45.2,
+                                    "shotConversion":  11.5
+                                }
+                  },
+                  {
+                      "id":  "GHA",
+                      "name":  "加纳",
+                      "nameEn":  "Ghana",
+                      "fifaCode":  "GHA",
+                      "nickname":  "黑星军团",
+                      "nicknameEn":  "Black Stars",
+                      "confederation":  "CAF",
+                      "fifaRanking":  73,
+                      "fifaPoints":  1350,
+                      "qualification":  "CAF I组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  5,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "四分之一决赛 (2010)",
+                                              "totalWins":  5,
+                                              "totalDraws":  3,
+                                              "totalLosses":  7,
+                                              "goalsFor":  16,
+                                              "goalsAgainst":  22
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  1.15,
+                                    "avgGoalsConceded":  1.52,
+                                    "avgPossession":  46.5,
+                                    "shotConversion":  11.8
+                                }
+                  },
+                  {
+                      "id":  "CUW",
+                      "name":  "库拉索",
+                      "nameEn":  "Curaçao",
+                      "fifaCode":  "CUW",
+                      "nickname":  "蓝色浪潮",
+                      "nicknameEn":  "Blue Wave",
+                      "confederation":  "CONCACAF",
+                      "fifaRanking":  82,
+                      "fifaPoints":  1302,
+                      "qualification":  "CONCACAF B组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  1,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "首次参赛",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  0,
+                                              "goalsFor":  0,
+                                              "goalsAgainst":  0
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.75,
+                                    "avgGoalsConceded":  1.85,
+                                    "avgPossession":  40.5,
+                                    "shotConversion":  8.2
+                                }
+                  },
+                  {
+                      "id":  "HAI",
+                      "name":  "海地",
+                      "nameEn":  "Haiti",
+                      "fifaCode":  "HAI",
+                      "nickname":  "掷弹兵",
+                      "nicknameEn":  "Les Grenadiers",
+                      "confederation":  "CONCACAF",
+                      "fifaRanking":  83,
+                      "fifaPoints":  1294,
+                      "qualification":  "CONCACAF C组冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  2,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (1974)",
+                                              "totalWins":  0,
+                                              "totalDraws":  0,
+                                              "totalLosses":  3,
+                                              "goalsFor":  2,
+                                              "goalsAgainst":  14
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.68,
+                                    "avgGoalsConceded":  2.45,
+                                    "avgPossession":  38.5,
+                                    "shotConversion":  7.5
+                                }
+                  },
+                  {
+                      "id":  "NZL",
+                      "name":  "新西兰",
+                      "nameEn":  "New Zealand",
+                      "fifaCode":  "NZL",
+                      "nickname":  "全白军团",
+                      "nicknameEn":  "All Whites",
+                      "confederation":  "OFC",
+                      "fifaRanking":  85,
+                      "fifaPoints":  1279,
+                      "qualification":  "OFC 冠军",
+                      "worldCupHistory":  {
+                                              "appearances":  3,
+                                              "champion":  0,
+                                              "runnerUp":  0,
+                                              "thirdPlace":  0,
+                                              "bestResult":  "小组赛 (1982, 2010)",
+                                              "totalWins":  0,
+                                              "totalDraws":  3,
+                                              "totalLosses":  3,
+                                              "goalsFor":  4,
+                                              "goalsAgainst":  14
+                                          },
+                      "stats":  {
+                                    "avgGoalsScored":  0.78,
+                                    "avgGoalsConceded":  2.35,
+                                    "avgPossession":  41.5,
+                                    "shotConversion":  7.8
+                                }
+                  }
+              ]
+}
