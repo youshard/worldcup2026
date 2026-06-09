@@ -30,7 +30,7 @@ export default function App() {
 
   return (
     <RefreshProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/worldcup2026">
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/teams" element={<TeamList />} />

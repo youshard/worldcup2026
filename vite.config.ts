@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/worldcup2026/',
   resolve: {
     alias: {
       '@': '/src',
