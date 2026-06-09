@@ -1,6 +1,13 @@
 import type { Team } from '../types';
 
-const BASE = import.meta.env.BASE_URL || '/';
+// GitHub Pages 子目录: /worldcup2026/ → 用它, / → 用 /
+const BASE = (() => {
+  if (typeof window !== 'undefined') {
+    const parts = window.location.pathname.split('/').filter(Boolean);
+    if (parts.length >= 1 && parts[0] !== '') return '/' + parts[0] + '/';
+  }
+  return '/';
+})();
 
 let teamsCache: Team[] | null = null;
 
