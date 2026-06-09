@@ -31,7 +31,7 @@ jobs:
           npm install
           pip install requests
           python scripts/crawl.py
-          npx vite build
+          npx vite build --base=/worldcup2026/
 
       - uses: actions/configure-pages@v4
 
