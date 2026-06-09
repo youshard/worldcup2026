@@ -135,25 +135,27 @@ export const RECENT_FORM: Record<string, RecentMatch[]> = {
 
   // ===== 亚洲强队 =====
   JPN: [
-    { opponent:'阿联酋',     opponentCode:'UAE', result:'W', homeScore:3, awayScore:0, date:'2025-10-14', venue:'埼玉',       competition:'世预赛' },
-    { opponent:'韩国',       opponentCode:'KOR', result:'W', homeScore:3, awayScore:0, date:'2025-09-10', venue:'横滨',       competition:'世预赛' },
+    { opponent:'冰岛',       opponentCode:'ISL', result:'W', homeScore:1, awayScore:0, date:'2026-05-31', venue:'东京国立竞技场', competition:'麒麟杯' },
+    { opponent:'英格兰',     opponentCode:'ENG', result:'W', homeScore:1, awayScore:0, date:'2026-03-29', venue:'东京',         competition:'热身赛' },
+    { opponent:'苏格兰',     opponentCode:'SCO', result:'W', homeScore:2, awayScore:0, date:'2026-03-29', venue:'横滨',        competition:'热身赛' },
     { opponent:'巴林',       opponentCode:'BHR', result:'W', homeScore:2, awayScore:0, date:'2025-03-20', venue:'麦纳麦',     competition:'世预赛' },
     { opponent:'中国',       opponentCode:'CHN', result:'W', homeScore:3, awayScore:1, date:'2024-11-19', venue:'重庆',       competition:'世预赛' },
     { opponent:'澳大利亚',   opponentCode:'AUS', result:'W', homeScore:2, awayScore:0, date:'2024-10-15', venue:'埼玉',       competition:'世预赛' },
   ],
   KOR: [
-    { opponent:'萨尔瓦多',   opponentCode:'SLV', result:'W', homeScore:1, awayScore:0, date:'2026-06-03', venue:'盐湖城',     competition:'热身赛' },
-    { opponent:'伊朗',       opponentCode:'IRN', result:'W', homeScore:2, awayScore:1, date:'2025-10-14', venue:'首尔',       competition:'世预赛' },
-    { opponent:'日本',       opponentCode:'JPN', result:'L', homeScore:0, awayScore:3, date:'2025-09-10', venue:'横滨',       competition:'世预赛' },
-    { opponent:'伊拉克',     opponentCode:'IRQ', result:'W', homeScore:3, awayScore:1, date:'2025-06-05', venue:'首尔',       competition:'世预赛' },
-    { opponent:'阿联酋',     opponentCode:'UAE', result:'W', homeScore:2, awayScore:0, date:'2025-03-25', venue:'迪拜',       competition:'世预赛' },
+    { opponent:'萨尔瓦多',     opponentCode:'SLV', result:'W', homeScore:1, awayScore:0, date:'2026-06-04', venue:'普罗沃',     competition:'热身赛' },
+    { opponent:'特立尼达和多巴哥',opponentCode:'TTO',result:'W', homeScore:5, awayScore:0, date:'2026-05-31', venue:'普罗沃',     competition:'热身赛' },
+    { opponent:'奥地利',       opponentCode:'AUT', result:'L', homeScore:0, awayScore:1, date:'2026-03-31', venue:'维也纳',     competition:'热身赛' },
+    { opponent:'伊朗',         opponentCode:'IRN', result:'W', homeScore:2, awayScore:1, date:'2025-10-14', venue:'首尔',       competition:'世预赛' },
+    { opponent:'日本',         opponentCode:'JPN', result:'L', homeScore:0, awayScore:3, date:'2025-09-10', venue:'横滨',       competition:'世预赛' },
+    { opponent:'伊拉克',       opponentCode:'IRQ', result:'W', homeScore:3, awayScore:1, date:'2025-06-05', venue:'首尔',       competition:'世预赛' },
   ],
   IRN: [
-    { opponent:'马里',       opponentCode:'MLI', result:'W', homeScore:2, awayScore:0, date:'2026-06-03', venue:'安塔利亚',   competition:'热身赛' },
-    { opponent:'韩国',       opponentCode:'KOR', result:'L', homeScore:1, awayScore:2, date:'2025-10-14', venue:'首尔',       competition:'世预赛' },
-    { opponent:'乌兹别克',   opponentCode:'UZB', result:'D', homeScore:2, awayScore:2, date:'2025-03-25', venue:'塔什干',     competition:'世预赛' },
-    { opponent:'吉尔吉斯',   opponentCode:'KGZ', result:'W', homeScore:3, awayScore:0, date:'2024-11-19', venue:'比什凯克',    competition:'世预赛' },
-    { opponent:'中国',       opponentCode:'CHN', result:'W', homeScore:3, awayScore:1, date:'2024-10-15', venue:'德黑兰',     competition:'世预赛' },
+    { opponent:'冈比亚',       opponentCode:'GAM', result:'W', homeScore:3, awayScore:1, date:'2026-05-29', venue:'安塔利亚',   competition:'热身赛' },
+    { opponent:'韩国',         opponentCode:'KOR', result:'L', homeScore:1, awayScore:2, date:'2025-10-14', venue:'首尔',       competition:'世预赛' },
+    { opponent:'乌兹别克',     opponentCode:'UZB', result:'D', homeScore:2, awayScore:2, date:'2025-03-25', venue:'塔什干',     competition:'世预赛' },
+    { opponent:'吉尔吉斯',     opponentCode:'KGZ', result:'W', homeScore:3, awayScore:0, date:'2024-11-19', venue:'比什凯克',  competition:'世预赛' },
+    { opponent:'中国',         opponentCode:'CHN', result:'W', homeScore:3, awayScore:1, date:'2024-10-15', venue:'德黑兰',     competition:'世预赛' },
   ],
 
   // ===== 其他球队 =====
