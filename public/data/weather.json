@@ -1,1 +1,118 @@
-{"venues":{"墨西哥城":{"temp":26,"humidity":55,"wind":2.0,"condition":"多云转晴","icon":"⛅"}},"_updatedAt":"2026-06-09 21:11:00","_updatedAtTs":0}
+{
+  "venues": {
+    "墨西哥城": {
+      "temp": 18,
+      "humidity": 74,
+      "wind": 4.6,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    "瓜达拉哈拉": {
+      "temp": 21,
+      "humidity": 77,
+      "wind": 7.2,
+      "condition": "晴",
+      "icon": "☀️"
+    },
+    "多伦多": {
+      "temp": 25,
+      "humidity": 60,
+      "wind": 0,
+      "condition": "待更新",
+      "icon": "🌤️"
+    },
+    "洛杉矶": {
+      "temp": 25,
+      "humidity": 60,
+      "wind": 0,
+      "condition": "待更新",
+      "icon": "🌤️"
+    },
+    "温哥华": {
+      "temp": 12,
+      "humidity": 88,
+      "wind": 18.6,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    "旧金山湾区": {
+      "temp": 18,
+      "humidity": 72,
+      "wind": 3.0,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    "纽约新泽西": {
+      "temp": 25,
+      "humidity": 28,
+      "wind": 17.6,
+      "condition": "晴",
+      "icon": "☀️"
+    },
+    "波士顿": {
+      "temp": 24,
+      "humidity": 38,
+      "wind": 19.6,
+      "condition": "晴",
+      "icon": "☀️"
+    },
+    "休斯敦": {
+      "temp": 31,
+      "humidity": 68,
+      "wind": 14.3,
+      "condition": "晴",
+      "icon": "☀️"
+    },
+    "达拉斯": {
+      "temp": 25,
+      "humidity": 60,
+      "wind": 0,
+      "condition": "待更新",
+      "icon": "🌤️"
+    },
+    "费城": {
+      "temp": 25,
+      "humidity": 60,
+      "wind": 0,
+      "condition": "待更新",
+      "icon": "🌤️"
+    },
+    "蒙特雷": {
+      "temp": 25,
+      "humidity": 60,
+      "wind": 0,
+      "condition": "待更新",
+      "icon": "🌤️"
+    },
+    "亚特兰大": {
+      "temp": 25,
+      "humidity": 60,
+      "wind": 0,
+      "condition": "待更新",
+      "icon": "🌤️"
+    },
+    "西雅图": {
+      "temp": 12,
+      "humidity": 90,
+      "wind": 12.2,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    "迈阿密": {
+      "temp": 29,
+      "humidity": 74,
+      "wind": 6.5,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    "堪萨斯城": {
+      "temp": 23,
+      "humidity": 77,
+      "wind": 39.0,
+      "condition": "阴",
+      "icon": "☁️"
+    }
+  },
+  "_updatedAt": "2026-06-09 23:01:36",
+  "_updatedAtTs": 1781017296799
+}
